@@ -173,6 +173,7 @@ th.sortable.sorted-desc .sort-arrow {
 
 .summury {
     margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 @media screen and (max-width: 1000px) {
